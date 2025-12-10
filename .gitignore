@@ -24,6 +24,7 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Large model files (optional - uncomment if you don't want to track these)
-# outputs/models/
-# outputs/checkpoints/
+# Large model files (too big for GitHub)
+outputs/models/*.h5
+outputs/checkpoints/*.h5
+*.weights.h5
