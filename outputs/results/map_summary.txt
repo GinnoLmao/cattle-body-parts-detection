@@ -1,0 +1,15 @@
+Mean Average Precision Summary
+==================================================
+
+mAP@0.5: 0.1285
+Mean IoU: 0.1126
+
+Per-class Average Precision (@IoU=0.5):
+  Head: 0.0000
+  Leg: 0.0312
+  Back: 0.3542
+
+Comparison at different IoU thresholds:
+  mAP@0.5: 0.1285
+  mAP@0.3: 0.3142
+  mAP@0.1: 0.4514
